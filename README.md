@@ -2,6 +2,7 @@
 
 💻 Atualmente trabalho com Infraestrutura na Level Up Latam </br>
 🚀 Apaixonado por tecnologia! </br>
+✍🏾 Buscando meu primeiro emprego na area de Desenvolvimento
 📍 São Paulo - Brasil </br>
 
 ---
