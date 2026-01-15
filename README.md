@@ -1,8 +1,10 @@
 ## 👋 Olá, eu sou o Jefferson!
 
-💻 Atualmente trabalho com Infraestrutura na Level Up Latam </br>
+👨🏾‍💻 Atualmente trabalho com Infraestrutura na Level Up Latam </br>
+👨🏾‍🎓 Formado em Análise e Desenvolvimento de Sistemas</br>
 🚀 Apaixonado por tecnologia! </br>
-✍🏾 Buscando meu primeiro emprego na area de Desenvolvimento
+✍🏾 Buscando meu primeiro emprego na área de Desenvolvimento
+
 📍 São Paulo - Brasil </br>
 
 ---
