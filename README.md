@@ -11,20 +11,20 @@
 
 ## 🛠️ Ferramentas e Tecnologias que estudo 
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" height="50" width="50"
+<p align="left">
+  <img alt="Python" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="CSharp" height="50" width="50"
+  <img alt="CSharp" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Swift" height="50" width="50"
+  <img alt="Swift" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="JavaScript" height="50" width="50"
+  <img alt="JavaScript" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="HTML5" height="50" width="50"
+  <img alt="HTML5" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="50" width="50"
+  <img alt="CSS3" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+</p>
 
 ---
 
